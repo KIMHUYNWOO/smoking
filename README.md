@@ -1,4 +1,5 @@
 Resnet_8.py : 흡연 판단 모델1(현재 가장 좋은 성능)
+
 Resnet_14.py : 흡연 판단 모델2
 Resnet_24.py : 흡연 판단 모델3
 data_loader.py : excel파일을 기준으로 이미지를 불러오고 batch_size만큼 데이터를 나누는 dataloader를 return하는 코드
